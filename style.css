@@ -27,13 +27,10 @@ body{
   letter-spacing: 4px;
   font-weight: 100;
 }
-.box h5{
-  font-size: 20px;
-  letter-spacing: 3px;
-  font-weight: 100;
-}
 .box p{
-  text-align: justify;
+  font-size: 18px;
+  letter-spacing: 3px;
+  text-align: center;
 }
 ul{
   margin: 0;
